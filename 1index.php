@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Lanchonete</h1>
-    <form action="calcular.php" method="post">
+    <form action="1calcular.php" method="post">
         Nome: <input type="text" name="nome" required><br><br>
         Lanche:
         <select name="lanche" required>

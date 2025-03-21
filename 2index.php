@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Livraria Online</h1>
-    <form action="calcular.php" method="post">
+    <form action="2calcular.php" method="post">
         Nome: <input type="text" name="nome" required><br><br>
         Livro:
         <select name="livro" required>

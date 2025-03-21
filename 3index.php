@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Calculadora de Compra</h1>
-    <form action="calcular.php" method="post">
+    <form action="3calcular.php" method="post">
         Total da compra: <input type="number" name="total" min="0" required><br><br>
         Forma de pagamento:
         <select name="forma_pagamento" required>
